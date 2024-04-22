@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Typescript, Angular, Node.Js, Express and Firebase functions**
 
-- 👨‍💻 All of my projects are available at [https://asifullahsikder.vercel.app/](https://asifullahsikder.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://asifsikder.vercel.app/](https://asifsikder.vercel.app)
 
 - 💬 Ask me about **Frontend Development**
 
